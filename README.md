@@ -14,4 +14,4 @@ Beacuse nodes are mobile, the contact happens and continues uncertainly. This ex
 * Examine different opportunistic routing methods 
 
 
-This job mainly worked in 2012.
+This job is mainly worked in 2012.
