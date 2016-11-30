@@ -12,3 +12,6 @@ Beacuse nodes are mobile, the contact happens and continues uncertainly. This ex
 * Calculate the distance of the node pairs, and judge if they are in communication range
 * Record the contact opportunities
 * Examine different opportunistic routing methods 
+
+
+This job mainly worked in 2012.
